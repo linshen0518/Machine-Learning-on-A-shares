@@ -71,5 +71,6 @@ A 股市場上漲機率本來就偏低，模型容易忽略少數「上漲」樣
 ---
 
 ### 📊 NAV 回測曲線
-![NAV Performance](./c412746f-464e-4d00-977f-c38a3bf364c0.png)
+![NAV Performance](./A股機器學習績效圖.png)
+
 
